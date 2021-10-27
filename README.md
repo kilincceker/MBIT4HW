@@ -112,7 +112,7 @@ In test composition step, the test sequences generated from original and mutant 
 
 #### Results
 
-Please see results for test execution for Special and Additional Module in Table 1-2 and Figure 6-7 respectively.
+Please see results for test execution for Sequence Detector, Traffic Light Controller, and RISC-V Processor in Table 1-3 and Figure 2-4 respectively.
 
 <figure>
 

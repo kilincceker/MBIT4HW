@@ -132,7 +132,7 @@ Please see results for test execution for Sequence Detector, Traffic Light Contr
 
 <figure>
 
-![Trulli](Results_RISC-V.png)
+![Trulli](Results_RISC-V.PNG)
 
 <figcaption>Table.3 - Test results for RISC-V Processor</figcaption>
 

@@ -41,7 +41,7 @@ the corresponding RE models automatically using PQ-TestGen and PQ-RanTest tools.
 #### Tool Support:
 
 *   [1]JFLAP, available at [http://www.jflap.org/](http://www.jflap.org/)
-*   [2]PQ-Analysis, avaliable at [http://download.ivknet.de/](http://download.ivknet.de/)
+*   [2]PQ-Analysis, avaliable at [Link](PQAnalysis.jar)
 
 #### Example: (TBD):
 
@@ -51,7 +51,7 @@ the corresponding RE models automatically using PQ-TestGen and PQ-RanTest tools.
 #### Tool Support:
 
 *   [1]JFLAP, available at [http://www.jflap.org/](http://www.jflap.org/)
-*   [2]PQ-Analysis, avaliable at [http://download.ivknet.de/](http://download.ivknet.de/)
+*   [2]PQ-Analysis, available at  [Link](PQAnalysis.jar)
 
 #### Example: (TBD):
 
@@ -60,7 +60,7 @@ the corresponding RE models automatically using PQ-TestGen and PQ-RanTest tools.
 #### Tool Support:
 
 *   [1]JFLAP, available at [http://www.jflap.org/](http://www.jflap.org/)
-*   [2]PQ-Analysis, avaliable at [http://download.ivknet.de/](http://download.ivknet.de/)
+*   [2]PQ-Analysis, available at [Link](PQAnalysis.jar)
 
 #### Example: (TBD)
 
